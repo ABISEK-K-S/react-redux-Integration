@@ -1,0 +1,3 @@
+export const STORE = {
+  UPDATE_STORE_INFO: "UPDATE_STORE_INFO"
+};
